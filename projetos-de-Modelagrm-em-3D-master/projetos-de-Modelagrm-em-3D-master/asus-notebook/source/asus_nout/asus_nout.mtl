@@ -1,0 +1,24 @@
+# Material file exported by Sandbox
+
+newmtl asus_nout
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.095307 0.095307 0.095307
+d 0
+Tr 0
+Ns 0.521569
+map_Kd D:\3D\Lumberyard\1.8.0.1\dev\D:\3D\Lumberyard\1.8.0.1\dev\SamplesProject\my\textures\asus_nout.dds
+map_Ns D:\3D\Lumberyard\1.8.0.1\dev\D:\3D\Lumberyard\1.8.0.1\dev\samplesproject\objects\pbs_reference\iron_spec.tif
+bump D:\3D\Lumberyard\1.8.0.1\dev\D:\3D\Lumberyard\1.8.0.1\dev\SamplesProject\my\textures\asus_nout_bump.dds
+
+newmtl SubMtl2
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.219526 0.219526 0.219526
+d 0
+Tr 0
+Ns 0.815686
+map_Kd D:\3D\Lumberyard\1.8.0.1\dev\D:\3D\Lumberyard\1.8.0.1\dev\SamplesProject\my\textures\asus_nout_disp.dds
+map_Ns D:\3D\Lumberyard\1.8.0.1\dev\D:\3D\Lumberyard\1.8.0.1\dev\samplesproject\objects\pbs_reference\iron_spec.tif
+bump D:\3D\Lumberyard\1.8.0.1\dev\D:\3D\Lumberyard\1.8.0.1\dev\SamplesProject\my\textures\asus_nout_disp_bump.dds
+
